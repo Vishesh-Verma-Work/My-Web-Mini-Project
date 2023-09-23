@@ -1,2 +1,2 @@
 # My-Web-Mini-Project
-created in the phase of learning HTML and CSS for my future portfolio.
+I developed this project during my HTML and CSS learning phase, with the intent of incorporating it into my future portfolio
